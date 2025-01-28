@@ -1,5 +1,4 @@
-#include<iostream> //airlines management system cpp project in this there 
-//is a problem in displaying the ticket after 3rs option pressing 1,make it proper after
+#include<iostream> 
 #include<fstream>
 #include<iomanip>
 using namespace std;
